@@ -7,7 +7,7 @@ Considerações finais: Pessoal, esse projeto é puramente em Javascript e PHP, 
 <ul>
 <li>
   <strong>Languages: <br /></strong>
-  <i>PHP e Javascript puro.</i>
+  <i>PHP e Javascript.</i>
  </li>
 
 <li>
@@ -25,8 +25,6 @@ Considerações finais: Pessoal, esse projeto é puramente em Javascript e PHP, 
   <i>HTML.</i>
 </li>
 </ul>
-
-
 
 
 
